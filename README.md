@@ -6,5 +6,5 @@ How to Weather App:
 
 Run this command in selected directory after downloading source code
 
-
+ npm install
 
